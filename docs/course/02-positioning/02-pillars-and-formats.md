@@ -78,12 +78,20 @@ Structure: hook with the myth, one concrete example, the turn ("the thing that m
 3. Fill the table with at least 12 ideas.
 4. Mark the five you are most excited to film. Move them to your idea inbox (lesson 3.1).
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Pitch one idea from your pillar/format table as if it were a real reel.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have 3-4 pillars connected to my thread.
 * [ ] I picked three formats.
 * [ ] I have a table of at least 12 ideas.
 * [ ] I chose my first five to film.
+* [ ] I recorded today's voice note and take.
 
 ---
 

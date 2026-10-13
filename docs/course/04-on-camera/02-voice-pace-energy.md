@@ -82,12 +82,20 @@ If you speak with an accent or in a second language, that is not a problem. Clar
 3. Mark two emphasis words per beat on your next script.
 4. Do the warm-up before your next three takes and note the difference.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Say yesterday's line again with about 20 percent more energy. Note the pace in one sentence.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I raised my energy and noticed the difference.
 * [ ] I found a pace that is clear and quick.
 * [ ] I mark emphasis words in my beats.
 * [ ] I replace fillers with silence where I can.
+* [ ] I recorded today's voice note and take.
 
 ---
 

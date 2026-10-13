@@ -108,12 +108,20 @@ Spoken, this is about 65 words and 28 seconds.
 4. Count the words and time yourself.
 5. Rehearse three times and record one take. Do not watch it yet.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Deliver your beat sheet without notes, with the fixed hook and payoff.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have a beat sheet with a fixed first and last line.
 * [ ] I know my own words-per-30-seconds.
 * [ ] I rehearsed aloud, not silently.
 * [ ] I recorded a take without reading.
+* [ ] I recorded today's voice note and take.
 
 ---
 

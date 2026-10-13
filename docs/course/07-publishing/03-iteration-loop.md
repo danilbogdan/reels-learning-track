@@ -113,12 +113,20 @@ Once a week:
 3. Plan the variants for your next three reels.
 4. Schedule your weekly review.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film a variant of an earlier take with exactly one thing changed.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have a hypothesis and one variable.
 * [ ] I keep an experiment log with a decision column.
 * [ ] I compare to a baseline median.
 * [ ] I have a weekly review slot.
+* [ ] I recorded today's voice note and take.
 
 ---
 

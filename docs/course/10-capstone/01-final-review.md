@@ -124,12 +124,20 @@ You made a habit and a skill. Whether or not your reels went wide, you now know 
 3. Write the 90-day plan with the three blocks.
 4. Schedule your next weekly review and put it in your calendar.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Tell the lens your honest 30-day summary: what changed, what didn't.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I completed the retrospective.
 * [ ] I made a decision.
 * [ ] I have a 90-day plan.
 * [ ] I scheduled the first review.
+* [ ] I recorded today's voice note and take.
 
 ---
 

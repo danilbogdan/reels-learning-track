@@ -94,12 +94,20 @@ Raw idea in the inbox: "I check email too much."
 
 Take five ideas from your inbox. For each, write the five questions and three angles. Choose the best angle for each. Select the **two cheapest** concepts, write their five parts, and mark them ready for scripting (lesson 3.5).
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Deliver one concept from the five-question test, from hook to payoff.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I wrote concept answers for five ideas.
 * [ ] I have three angles for each.
 * [ ] I picked two cheap, clear concepts.
 * [ ] Each has a hook, promise, beats, turn and payoff in a line.
+* [ ] I recorded today's voice note and take.
 
 ---
 

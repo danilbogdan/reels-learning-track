@@ -93,12 +93,20 @@ Check each idea: *if the original creator saw it, would they recognize their vid
 3. For each pattern write two ideas in your own material.
 4. Put your best five into the idea inbox.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Name one pattern from your breakdown table and apply it to your own idea.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have 20 rows in my breakdown table.
 * [ ] I wrote 3-5 patterns in plain language.
 * [ ] I have 6-10 ideas that use these patterns with my material.
 * [ ] None of my ideas reuse someone else's words or footage.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

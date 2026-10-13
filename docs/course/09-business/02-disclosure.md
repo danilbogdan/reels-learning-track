@@ -84,12 +84,20 @@ Affiliate links and discount codes that give you commission are commercial relat
 3. Find the disclosure setting in your app and note where it is.
 4. Read the official UOKiK guidance, or your country's equivalent, and note any differences from this lesson.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Say your standard disclosure line naturally, as if opening a sponsored video.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know when a post counts as commercial.
 * [ ] I know how to use the platform label.
 * [ ] I have a standard spoken/written disclosure.
 * [ ] I keep records of agreements.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

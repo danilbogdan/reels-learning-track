@@ -67,12 +67,20 @@ You can score any idea by those four lines before you film it.
 
 Open your own feed (Reels or For You) and watch 15 videos. For each, write one line: *did I finish it? why?* Do not analyze the topic, only your behavior. At the end, circle the common reasons. This is your personal retention model, and you will reuse it in lesson 3.2.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Tell the lens, in 30 seconds, about one video you finished today and why you finished it.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I can name the three behaviors platforms reward: stay, finish, react.
 * [ ] I know that completion and shares matter more than likes.
 * [ ] I know my exports must be vertical, clean and have sound.
 * [ ] I wrote down why I finished or abandoned 15 videos.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

@@ -119,12 +119,20 @@ Content about yourself can start to take over your life: experiences become mate
 3. Create or refine three templates.
 4. Write what you will do on a burnout day.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Tell the lens what you will do on a bad day to keep the streak.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] My rhythm is on paper.
 * [ ] My budget is honest.
 * [ ] Templates exist.
 * [ ] I have a plan for hard days.
+* [ ] I recorded today's voice note and take.
 
 ---
 

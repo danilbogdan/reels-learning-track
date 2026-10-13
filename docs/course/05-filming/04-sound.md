@@ -92,12 +92,20 @@ Do not film with music playing in the room. It makes edits impossible and may vi
 3. Record with your voice at conversation volume, then slightly louder.
 4. Write down your best sound setup and add it to your camera recipe.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Do the room-tone check first, then film. Listen on headphones.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know which room in my home sounds best.
 * [ ] I reduced noise sources before filming.
 * [ ] I keep a steady distance from the mic.
 * [ ] I listened on headphones before filming the real take.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

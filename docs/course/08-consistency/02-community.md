@@ -91,12 +91,20 @@ Trust is the asset that makes monetization later possible.
 3. Set up comment filters and a blocking policy.
 4. List five creators you could collaborate with, and one way you might offer them value.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Answer one real question from a comment or a friend.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I reply to comments and learn from them.
 * [ ] I have moderation tools set.
 * [ ] I know common scam signs.
 * [ ] I have a short list of potential collaborators.
+* [ ] I recorded today's voice note and take.
 
 ---
 

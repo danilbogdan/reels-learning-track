@@ -94,12 +94,20 @@ You don't need b-roll for every reel. A clean talking head with good captions is
 3. Do a 60-minute batch: film mains for both, then b-roll for both, then room tone.
 4. Name and file the footage using your scheme.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film one main take plus two 3-second b-roll clips for it.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know what b-roll is and when to use it.
 * [ ] I wrote a shot list before filming.
 * [ ] I filmed at least two reels in one session.
 * [ ] My footage is named and backed up.
+* [ ] I recorded today's voice note and take.
 
 ---
 

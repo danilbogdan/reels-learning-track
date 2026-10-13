@@ -78,12 +78,20 @@ Total about 70 words, around 30 seconds.
 
 Take three videos you finished watching in lesson 1.1. For each, mark: the hook (what was the first line?), the promise, the beats, the turn and the payoff. Write them in a small table. Then pick one of your own ideas and write the five parts as five short lines. Do not film it yet.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Tell one small story from your day in the five parts: hook, promise, body, turn, payoff.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I can name the five parts of the structure.
 * [ ] I marked the structure of three real videos.
 * [ ] I wrote the five lines for one of my own ideas.
 * [ ] My draft has one promise and a clear payoff.
+* [ ] I recorded today's voice note and take.
 
 ## What comes next
 

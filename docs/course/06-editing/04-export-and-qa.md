@@ -118,12 +118,20 @@ You'll need these when you review your analytics.
 3. Run the quality check and fix at least one issue.
 4. Extract or choose a cover.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film, export with your preset and run the quality check.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have a saved export preset.
 * [ ] My export has no watermark or borders.
 * [ ] I ran the quality check.
 * [ ] I have a cover and a log entry.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

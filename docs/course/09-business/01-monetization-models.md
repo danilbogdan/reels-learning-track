@@ -88,12 +88,20 @@ Pick one model to explore, not five.
 2. Choose one to explore, and write the smallest experiment: for example, offering a 30-minute paid consultation to three people, or testing a simple template.
 3. Write your red lines: kinds of brands or products you won't promote.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Explain one monetization model in plain words, as to a ten-year-old.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know the main models.
 * [ ] I know the sensible order.
 * [ ] I picked one model to explore.
 * [ ] I wrote my red lines.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

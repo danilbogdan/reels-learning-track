@@ -98,12 +98,20 @@ Keep a note or a column in your tracker with the date and one sentence about eac
 
 Follow the seven-day rotation this week. At the end, write your three observations. Repeat with a different set of drills for the next week.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film two drills from the seven-day rotation.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know the 10 drills.
 * [ ] I have a 7-day rotation.
 * [ ] I do a weekly side-by-side review.
 * [ ] I keep a short log of progress.
+* [ ] I recorded today's voice note and take.
 
 ---
 

@@ -76,12 +76,20 @@ Harvest line: "Avoiding a task costs more than doing it: two weeks of dread for 
 3. List 10 ideas already in your head and put them in the inbox.
 4. Schedule the weekly harvest in your calendar.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Retell today's voice note to the lens, opening with its best sentence.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have one inbox and a one-tap shortcut.
 * [ ] I recorded a voice note today.
 * [ ] I have at least 10 raw ideas in the inbox.
 * [ ] My weekly harvest is scheduled.
+* [ ] I recorded today's voice note and take.
 
 ---
 

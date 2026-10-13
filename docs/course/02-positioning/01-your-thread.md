@@ -80,12 +80,20 @@ Someone with a background in civil engineering who moved to programming might ch
 4. Write 10 video ideas for the one you pick. If you cannot, pick the other.
 5. Write the chosen thread on a note and put it where you film.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Say your thread statement to the lens in one breath, three times. Keep the third.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have a thread statement I can say in one breath.
 * [ ] I have 10 ideas that fit it.
 * [ ] I committed to it for the first 10 reels.
 * [ ] I understand it can change after I see data.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

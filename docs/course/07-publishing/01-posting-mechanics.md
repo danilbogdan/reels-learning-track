@@ -103,6 +103,13 @@ There is no universal best time. Generic charts are averages of other people's a
 4. Post your first reel (week 3 onward). Reply to the first comments.
 5. Add a row to your log.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film something for your thread. Write its caption and 3-5 hashtags (publish only if your plan says so).
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] Privacy, quality and disclosure checks are done.
@@ -110,6 +117,7 @@ There is no universal best time. Generic charts are averages of other people's a
 * [ ] 3-5 relevant hashtags.
 * [ ] Settings reviewed.
 * [ ] I logged the post.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

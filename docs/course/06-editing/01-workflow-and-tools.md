@@ -102,12 +102,20 @@ Good editing is invisible. The viewer should notice the idea and the emotion, no
 3. Create a vertical template project.
 4. Rough-cut one reel: pick the best takes and order them. Do not polish yet.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film, convert it to constant frame rate and import it into your editor.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I chose one editor.
 * [ ] I convert footage to constant frame rate before editing.
 * [ ] I have a vertical project template.
 * [ ] I know the seven pipeline steps.
+* [ ] I recorded today's voice note and take.
 
 ---
 

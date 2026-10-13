@@ -94,12 +94,20 @@ Keep content income and costs traceable: a dedicated account or at least a clear
 3. Draft a one-page agreement template using the checklist above.
 4. Write three questions about taxes to ask an accountant.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Explain how you would price a partnership, in plain words, as to a friend.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know my floor and a reach-based price.
 * [ ] I have an agreement template.
 * [ ] I know that barter and gifts can be taxable.
 * [ ] I have questions for an accountant about my situation, including VAT.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

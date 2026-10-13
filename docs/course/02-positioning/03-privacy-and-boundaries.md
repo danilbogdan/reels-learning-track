@@ -84,6 +84,13 @@ Write a one-page policy, for example:
 4. Check location tagging and privacy settings in your camera and in the platform app.
 5. Turn on two-factor authentication for each account you will use.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Say your personal policy aloud: what you share and what you don't. Check the background before you press record.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] My three circles are written.
@@ -91,6 +98,7 @@ Write a one-page policy, for example:
 * [ ] I checked backgrounds and metadata.
 * [ ] My accounts are secured with two-factor authentication.
 * [ ] I know what to do when I get a hostile comment.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 

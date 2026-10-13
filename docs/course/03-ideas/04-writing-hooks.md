@@ -97,12 +97,20 @@ Pick one, film it, and keep the others in the inbox for another reel.
 3. Pick the best two for each, run the friend test on the finalists.
 4. Film each chosen hook five times in different tones: calm, urgent, amused. Do not edit. Note which feels most like you.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Say your three best hooks one after another, each followed by a one-sentence promise.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know the twelve patterns.
 * [ ] I wrote at least 24 hooks.
 * [ ] I cut warm-ups and tightened to 12 words or fewer.
 * [ ] I know my opening frame.
+* [ ] I recorded today's voice note and take.
 
 ---
 

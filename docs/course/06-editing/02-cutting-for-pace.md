@@ -87,12 +87,20 @@ A **J-cut** starts the audio of the next shot before the picture changes. An **L
 3. Add one cutaway or punch-in at an idea boundary.
 4. Watch the final cut on your phone with headphones, and again with the sound off.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film, then cut it with passes 2-5. Note the percentage removed.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I removed pauses and false starts.
 * [ ] I varied the picture at least once in a longer reel.
 * [ ] My cuts have no clicks or clipped words.
 * [ ] I watched it on a phone.
+* [ ] I recorded today's voice note and take.
 
 ---
 

@@ -94,12 +94,20 @@ If not, move a half-meter and test again. Small moves make large differences.
 3. Mark the spot on the floor with tape and note the best time of day.
 4. Try the sheet-of-paper reflector and see the effect on shadows.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film in your best light spot and compare it with yesterday's take.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know my best light spot at home.
 * [ ] My face is lit from the front or 45 degrees.
 * [ ] I avoid mixed color lights.
 * [ ] I know when the light is best during the day.
+* [ ] I recorded today's voice note and take.
 
 ---
 

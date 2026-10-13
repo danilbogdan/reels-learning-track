@@ -82,12 +82,20 @@ A 15-minute daily practice:
 
 For seven days, do the 15-minute session. Keep a small log: date, what I tried, one observation. At the end of the week, watch your day-1 and day-7 takes side by side and write three things that changed. There will be some.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** One pass of any topic, no retakes. Don't watch it.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I understand why this feels strange, and that it is normal.
 * [ ] I decided not to watch takes immediately.
 * [ ] I have a 15-minute daily session.
 * [ ] I put a person (or a photo) behind the lens.
+* [ ] I recorded today's voice note and take.
 
 ---
 

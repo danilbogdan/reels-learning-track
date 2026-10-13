@@ -2,7 +2,7 @@
 
 [Course index](README.md) | [Русский](../ru/course/schedule.md)
 
-One to three hours a day. If you miss a day, do the minimum (a voice note) and continue; do not try to catch up all at once.
+One to three hours a day. If you miss a day, do the minimum (a voice note) and continue; do not try to catch up all at once. Every lesson ends with a Daily practice block: the voice note plus a 30-second take on that lesson's theme.
 
 | Day | Lessons | Notes |
 |---|---|---|

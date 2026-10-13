@@ -97,6 +97,13 @@ Shaky footage reads as amateur, and it can make viewers uncomfortable.
 3. Check the safe zones by uploading a private test video or by overlaying a rough mask on a screenshot.
 4. Re-film one take with a better background.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film from a different angle than yesterday.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I film in vertical.
@@ -104,6 +111,7 @@ Shaky footage reads as amateur, and it can make viewers uncomfortable.
 * [ ] I have a repertoire of at least three angles.
 * [ ] I checked the safe zones on a real test.
 * [ ] My background is tidy and reveals nothing private.
+* [ ] I recorded today's voice note and take.
 
 ---
 

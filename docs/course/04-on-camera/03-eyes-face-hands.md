@@ -90,12 +90,20 @@ Pick **one** item to improve in tomorrow's take.
 2. Record a walking take of 15 seconds with the phone held steady.
 3. Use the review checklist on your last three takes and pick one item to improve.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film with the eye-line marker and your hands at chest height.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I have an eye-line marker by the lens.
 * [ ] I know where my hands go.
 * [ ] I stand or sit tall and relaxed.
 * [ ] I picked one thing to improve tomorrow.
+* [ ] I recorded today's voice note and take.
 
 ---
 

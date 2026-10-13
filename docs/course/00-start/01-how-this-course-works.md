@@ -65,12 +65,20 @@ Why it works: you have now broken the seal. The first take is the highest barrie
 * **Planning to publish early.** You are not ready, and it is not the goal.
 * **Making the minimum day too big.** If your minimum day takes 30 minutes, you will skip it. Make it five.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Your first take from this lesson counts as today's take. From tomorrow, any topic.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know the three phases of the course.
 * [ ] I have a tracker and a defined minimum day.
 * [ ] I have enough free storage.
 * [ ] I recorded and did not watch my first 30-second take.
+* [ ] I recorded today's voice note and take.
 
 ## What comes next
 

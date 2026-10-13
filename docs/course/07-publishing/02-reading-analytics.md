@@ -89,12 +89,20 @@ At the end of two weeks, sort by completion and by shares. Compare the top three
 3. For each, identify the drop-off pattern and write one hypothesis.
 4. Pick a single change to try in the next reel (lesson 7.3).
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Tell the lens your top three observations from your analytics.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I know the key metrics and their names in my app.
 * [ ] I can read a retention curve.
 * [ ] I filled my analytics table.
 * [ ] I wrote one hypothesis per video.
+* [ ] I recorded today's voice note and take.
 
 ---
 

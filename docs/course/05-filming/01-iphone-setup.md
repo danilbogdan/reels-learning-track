@@ -97,6 +97,13 @@ Keep the recipe in your notes and check it before each session.
 3. Film a 15-second test take with the recipe. Check for brightness pulses, focus changes and clear audio.
 4. Transfer the file to your editing device and check it plays correctly.
 
+## Daily practice
+
+* **Minimum (keeps the streak):** a voice note of any length.
+* **Today's take (about 30 seconds):** Film using your camera recipe. Check that exposure and focus stay locked.
+* Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
+* Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
+
 ## Checklist
 
 * [ ] I selected a format on purpose.
@@ -104,6 +111,7 @@ Keep the recipe in your notes and check it before each session.
 * [ ] I know how to lock exposure and focus.
 * [ ] I cleaned the lens and set a stable mount.
 * [ ] I have a camera recipe note.
+* [ ] I recorded today's voice note and take.
 
 ## Sources
 
