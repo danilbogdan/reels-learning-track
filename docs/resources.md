@@ -17,6 +17,17 @@
 
 The books were not checked against their texts; these are recommendations from memory.
 
+## Reading order
+
+Loose suggestion; see also the [course schedule](course/schedule.md#reading-alongside-optional-loose).
+
+1. Austin Kleon, *Steal Like an Artist* (start here)
+2. Chip and Dan Heath, *Made to Stick*
+3. Austin Kleon, *Show Your Work!*
+4. Jonah Berger, *Contagious*
+
+The rest of the list can wait. The list was compiled from memory and not checked against the texts; find editions and translations through your library or bookstore.
+
 ## Primary sources
 
 * [TikTok: how videos are recommended](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/)

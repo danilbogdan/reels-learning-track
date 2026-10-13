@@ -36,3 +36,16 @@ One to three hours a day. If you miss a day, do the minimum (a voice note) and c
 | 28 | [9.3 Pricing, agreements and taxes](09-business/03-pricing-and-taxes.md) |  |
 | 29 | [4.4 Drills for natural delivery](04-on-camera/04-drills.md) | Review: compare your day-1 and latest takes. |
 | 30 | [10.1 Final review and the next 90 days](10-capstone/01-final-review.md) |  |
+
+## Reading alongside (optional, loose)
+
+Books are a bonus, not a requirement; the lessons already contain the theory. About 15-20 minutes a day, whenever it fits. If you fall behind, just keep going.
+
+| Week | Reading |
+|---|---|
+| 1 | The platform sources linked in lesson 1.1 (15 minutes), then Austin Kleon, *Steal Like an Artist* |
+| 2 | Heath and Heath, *Made to Stick* (hooks, concrete ideas) |
+| 3 | Austin Kleon, *Show Your Work!* (showing process) |
+| 4 | Jonah Berger, *Contagious* (why people share) |
+
+See [resources](../resources.md) for the full list.

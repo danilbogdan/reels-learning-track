@@ -17,6 +17,17 @@
 
 Книги не сверялись с текстами, это рекомендации по памяти.
 
+## Порядок чтения
+
+Примерная подсказка; см. также [расписание курса](course/schedule.md#чтение-параллельно-по-желанию-примерно).
+
+1. Austin Kleon, *Steal Like an Artist* (начните с неё)
+2. Chip и Dan Heath, *Made to Stick*
+3. Austin Kleon, *Show Your Work!*
+4. Jonah Berger, *Contagious*
+
+Остальное можно отложить. Список составлен по памяти и по текстам не сверялся; издания и переводы ищите в библиотеке или книжном.
+
 ## Первоисточники
 
 * [TikTok: как рекомендуются видео](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/)
