@@ -1,15 +1,17 @@
-# 30-day plan: October 12 - November 10, 2026
+# 30-day plan
 
 **English** | [Русский](ru/plan.md)
 
+The lessons for each day are in the [course schedule](course/schedule.md).
+
 No publishing for the first two weeks. The goal of weeks 1-2 is a daily filming habit and a stock of material.
 
-| Week | Dates | Goal | Daily minimum | Result |
-|---|---|---|---|---|
-| 1 | Oct 12-18 | a 7-day streak | a voice note + one 30-second take | 7 raw clips |
-| 2 | Oct 19-25 | hooks and angles | 1 angle from the list + analysis of 1 other person's video | a table of 20 videos, 5 angles filmed |
-| 3 | Oct 26 - Nov 1 | first posts | film 1 video a day, publish 3 over the week | 3 reels |
-| 4 | Nov 2-10 | review and repeat | film 1 video a day, 10 minutes on analytics | 4-5 reels, a conclusion on which hook and angle gave the best retention |
+| Week | Goal | Daily minimum | Result |
+|---|---|---|---|
+| 1 | a 7-day streak | a voice note + one 30-second take | 7 raw clips |
+| 2 | hooks and angles | 1 angle from the list + analysis of 1 other person's video | a table of 20 videos, 5 angles filmed |
+| 3 | first posts | film 1 video a day, publish 3 over the week | 3 reels |
+| 4 | review and repeat | film 1 video a day, 10 minutes on analytics | 4-5 reels, a conclusion on which hook and angle gave the best retention |
 
 ## Minimum on a bad day
 

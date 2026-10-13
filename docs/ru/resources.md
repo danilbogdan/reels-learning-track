@@ -19,8 +19,6 @@
 
 ## Первоисточники
 
-Проверены 12 октября 2026.
-
 * [TikTok: как рекомендуются видео](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/)
 * [Instagram: ranking explained](https://about.instagram.com/blog/announcements/instagram-ranking-explained)
 * [Apple: HEIF и HEVC](https://support.apple.com/en-us/HT207022)

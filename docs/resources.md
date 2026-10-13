@@ -19,8 +19,6 @@ The books were not checked against their texts; these are recommendations from m
 
 ## Primary sources
 
-Checked on October 12, 2026.
-
 * [TikTok: how videos are recommended](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/)
 * [Instagram: ranking explained](https://about.instagram.com/blog/announcements/instagram-ranking-explained)
 * [Apple: HEIF and HEVC](https://support.apple.com/en-us/HT207022)

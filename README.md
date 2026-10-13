@@ -10,9 +10,13 @@ The idea is simple: habit first, then technique, then publishing and review.
 
 | File | What it covers |
 |---|---|
+| [docs/course/](docs/course/README.md) | **The full course:** 33 lessons in 11 modules, each with steps, examples, exercises and a checklist |
+| [docs/course/schedule.md](docs/course/schedule.md) | Which lessons to take on which of the 30 days |
 | [docs/plan.md](docs/plan.md) | 30-day plan by week, daily minimum |
-| [docs/summary.md](docs/summary.md) | Short summary: accounts, ideas, filming, posting, analytics, monetization, being on camera |
+| [docs/summary.md](docs/summary.md) | Cheat sheet: accounts, ideas, filming, posting, analytics, monetization, being on camera |
 | [docs/resources.md](docs/resources.md) | Books and primary sources (official platform docs) |
+
+Start with the [course](docs/course/README.md) and the [schedule](docs/course/schedule.md); the plan and cheat sheet are the quick reference.
 
 Russian versions: [plan](docs/ru/plan.md), [summary](docs/ru/summary.md), [resources](docs/ru/resources.md).
 
@@ -26,10 +30,10 @@ Russian versions: [plan](docs/ru/plan.md), [summary](docs/ru/summary.md), [resou
 
 ## The weeks in two lines each
 
-* **Week 1 (Oct 12-18):** 7 days in a row, a note plus one 30-second take.
-* **Week 2 (Oct 19-25):** hooks and camera angles, a table of 20 analyzed videos.
-* **Week 3 (Oct 26 - Nov 1):** first three posts.
-* **Week 4 (Nov 2-10):** 4-5 posts, analytics review, a conclusion about hooks.
+* **Week 1 :** 7 days in a row, a note plus one 30-second take.
+* **Week 2 :** hooks and camera angles, a table of 20 analyzed videos.
+* **Week 3 :** first three posts.
+* **Week 4 :** 4-5 posts, analytics review, a conclusion about hooks.
 
 ## Tooling
 

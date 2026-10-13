@@ -2,6 +2,8 @@
 
 [English](../summary.md) | **Русский**
 
+Это шпаргалка. Полный материал — в [курсе](course/README.md).
+
 ## 1. Аккаунты и ниша
 
 * Для Instagram подходит аккаунт типа Creator: аналитика, планирование постов, полная музыкальная библиотека. У Business музыка ограничена коммерчески разрешённой. Источник: [Buffer](https://buffer.com/resources/instagram-account-type/).

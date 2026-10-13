@@ -2,6 +2,8 @@
 
 **English** | [Русский](ru/summary.md)
 
+This is a cheat sheet. The full material is in the [course](course/README.md).
+
 ## 1. Accounts and niche
 
 * For Instagram an account of the Creator type fits: analytics, scheduling posts, the full music library. Business accounts are limited to commercially licensed music. Source: [Buffer](https://buffer.com/resources/instagram-account-type/).
