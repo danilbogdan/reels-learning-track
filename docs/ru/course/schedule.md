@@ -48,4 +48,4 @@
 | 3 | Austin Kleon, *Show Your Work!* (показывать процесс) |
 | 4 | Jonah Berger, *Contagious* (почему люди делятся) |
 
-Полный список — в [ресурсах](../../resources.md).
+Полный список — в [ресурсах](../resources.md).
