@@ -1,38 +1,50 @@
-# План на 30 дней: 12 октября - 10 ноября 2026
+# 30-day plan: October 12 - November 10, 2026
 
-Первые две недели ничего не публикуем. Цель недель 1-2: привычка снимать каждый день и накопленный материал.
+**English** | [Русский](ru/plan.md)
 
-| Неделя | Даты | Цель | Минимум в день | Результат |
+No publishing for the first two weeks. The goal of weeks 1-2 is a daily filming habit and a stock of material.
+
+| Week | Dates | Goal | Daily minimum | Result |
 |---|---|---|---|---|
-| 1 | 12-18 окт | серия 7 дней подряд | голосовая заметка + 1 дубль на 30 сек | 7 клипов без обработки |
-| 2 | 19-25 окт | хуки и ракурсы | 1 ракурс из списка + разбор 1 чужого ролика | таблица из 20 роликов, 5 отснятых ракурсов |
-| 3 | 26 окт - 1 ноя | первые публикации | снять 1 ролик, за неделю опубликовать 3 | 3 рилса |
-| 4 | 2-10 ноя | разбор и повтор | снять 1 ролик, 10 минут на аналитику | 4-5 рилсов, вывод о том, какой хук и ракурс дали лучшее удержание |
+| 1 | Oct 12-18 | a 7-day streak | a voice note + one 30-second take | 7 raw clips |
+| 2 | Oct 19-25 | hooks and angles | 1 angle from the list + analysis of 1 other person's video | a table of 20 videos, 5 angles filmed |
+| 3 | Oct 26 - Nov 1 | first posts | film 1 video a day, publish 3 over the week | 3 reels |
+| 4 | Nov 2-10 | review and repeat | film 1 video a day, 10 minutes on analytics | 4-5 reels, a conclusion on which hook and angle gave the best retention |
 
-## Минимум в плохой день
+## Minimum on a bad day
 
-Только голосовая заметка. Главное не прерывать серию, а не снять идеальный кадр.
+Only a voice note. The point is not to break the streak, not to film a perfect shot.
 
-## Ракурсы для недели 2
+## Angles for week 2
 
-По одному в день:
+One per day:
 
-1. Фронтальный на уровне глаз.
-2. Снизу вверх.
-3. Через плечо.
-4. Движение по комнате с речью.
-5. Крупный план рук или экрана без лица.
+1. Front-facing at eye level.
+2. From below, looking up.
+3. Over the shoulder.
+4. Walking around the room while talking.
+5. Close-up of hands or screen with no face.
 
-## Таблица разбора чужих роликов
+## Table for analyzing other people's videos
 
-Колонки: ссылка, первая фраза, первый кадр, обещание зрителю, где поворот, чем закончилось, чем заходит. Из таблицы выделяем 3-5 повторяющихся шаблонов и переделываем под свою историю.
+Columns: link, first line, first frame, promise to the viewer, the turn, how it ended, why it works. From the table pick 3-5 recurring patterns and rework them with your own story.
 
-## Техника до недели 3
+## Equipment and setup before week 3
 
-* Выбрать формат записи на iPhone и настроить конвертацию в постоянную частоту кадров (см. [конспект](summary.md), раздел про съёмку).
-* Определить место и время для света: окно спереди или сбоку.
-* Проверить звук: тихая комната или петличный микрофон.
+* Choose a recording format on iPhone and set up conversion to constant frame rate (see the [summary](summary.md), filming section).
+* Settle on a spot and time for light: a window in front or to the side.
+* Check sound: a quiet room or a lavalier mic.
 
-## Аналитика (недели 3-4)
+## Analytics (weeks 3-4)
 
-После каждой публикации записывать: хук, длительность, удержание первых 3 секунд, средняя длительность просмотра, доля досмотров, репосты, сохранения. Названия метрик в интерфейсе платформ могут отличаться.
+After each post record: hook, length, retention in the first 3 seconds, average watch time, completion rate, shares, saves. Metric names in each platform's interface may differ.
+
+## Tooling
+
+[reel-skills](https://github.com/danilbogdan/reel-skills) is the companion toolbox. Its README describes skills for learning from reference videos (video analysis, hook linting), for making the reel (cutting pauses, B-roll indexing, rendering) and for working with notes (a notes digest). Natural fits for this plan:
+
+* **Week 2:** analyzing other people's videos and checking your hooks.
+* **Weeks 1-4:** turning voice notes into usable material.
+* **Weeks 3-4:** cutting and rendering before you post.
+
+Check the reel-skills README for current skill names and setup, since that repo evolves separately.

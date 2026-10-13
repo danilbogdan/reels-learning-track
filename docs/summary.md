@@ -1,60 +1,62 @@
-# Краткий конспект
+# Short summary
 
-## 1. Аккаунты и ниша
+**English** | [Русский](ru/summary.md)
 
-* Для Instagram подходит аккаунт типа Creator: аналитика, планирование постов, полная музыкальная библиотека. У Business музыка ограничена коммерчески разрешённой. Источник: [Buffer](https://buffer.com/resources/instagram-account-type/).
-* Начни с одной платформы на 3-4 недели, потом добавляй вторую.
-* Ниша для личного бренда не обязана быть одной темой. Нужна повторяющаяся нить, по которой зритель понимает, зачем ему смотреть именно тебя. Выбери один угол на первые 10 роликов и посмотри, что заходит.
-* Для монетизации хватает небольшой преданной аудитории: эссе Kevin Kelly [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/).
+## 1. Accounts and niche
 
-## 2. Идеи и структура ролика
+* For Instagram an account of the Creator type fits: analytics, scheduling posts, the full music library. Business accounts are limited to commercially licensed music. Source: [Buffer](https://buffer.com/resources/instagram-account-type/).
+* Start with one platform for 3-4 weeks, then add a second.
+* A niche for a personal brand does not have to be one topic. You need a recurring thread that tells the viewer why to watch you in particular. Pick one angle for the first 10 videos and see what lands.
+* For monetization a small devoted audience can be enough: Kevin Kelly's essay [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/).
 
-Платформы говорят, что именно они измеряют.
+## 2. Ideas and video structure
 
-* [TikTok](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/): сильный сигнал интереса, когда зритель досматривает длинное видео от начала до конца. Число подписчиков и прошлые удачные видео не являются прямыми факторами.
-* [Instagram](https://about.instagram.com/blog/announcements/instagram-ranking-explained): для Reels прогнозируется, досмотрят ли ролик, лайкнут, поделятся, перейдут на страницу аудио. Охват снижают низкое разрешение, водяной знак, отсутствие звука, рамки, преимущественно текст и контент, уже опубликованный в Instagram.
+The platforms say what they measure.
 
-Как искать идеи:
+* [TikTok](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/): a strong interest signal is watching a longer video from beginning to end. Follower count and past high-performing videos are not direct factors.
+* [Instagram](https://about.instagram.com/blog/announcements/instagram-ranking-explained): for Reels the system predicts whether people will watch to the end, like, share or visit the audio page. Reach is reduced by low resolution, watermarks, no sound, borders, mostly text, and content already posted on Instagram.
 
-1. Собери 20 роликов в своей теме, которые ты кликнул и досмотрел.
-2. Запиши для каждого: первую фразу, первый кадр, обещание зрителю, поворот, финал.
-3. Выдели 3-5 повторяющихся шаблонов и переделай под свою историю.
-4. Не копируй чужой ролик дословно.
+How to find ideas:
 
-## 3. Съёмка на iPhone и монтаж
+1. Collect 20 videos in your topic that you clicked and watched to the end.
+2. For each, write down the first line, first frame, promise to the viewer, the turn and the ending.
+3. Pick 3-5 recurring patterns and rework them with your own story.
+4. Do not copy someone else's video word for word.
 
-* Формат записи: Настройки - Камера - Форматы. High Efficiency (HEVC) даёт меньше места, Most Compatible (H.264) лучше совместим. Источник: [Apple](https://support.apple.com/en-us/HT207022).
-* При импорте на компьютер файлы могут конвертироваться в H.264. Чтобы сохранять оригиналы, включи Keep Originals в настройках фото.
-* Видео с iPhone часто пишется с переменной частотой кадров, и в монтаже это даёт рассинхрон. Перед монтажом приведи видео к постоянной частоте. Это общая практика, не из официальной справки. Пример:
+## 3. Filming on iPhone and editing
+
+* Recording format: Settings - Camera - Formats. High Efficiency (HEVC) saves space, Most Compatible (H.264) is more widely compatible. Source: [Apple](https://support.apple.com/en-us/HT207022).
+* When importing to a computer, files may be converted to H.264. To keep originals, turn on Keep Originals in the photo settings.
+* iPhone video is often recorded with variable frame rate, which causes sync drift in editing. Convert to constant frame rate before editing. This is general practice, not from official documentation. Example:
 
 ```
 ffmpeg -i in.MOV -c:v libx264 -crf 18 -r 30 -c:a aac out.mp4
 ```
 
-* Общая практика: вертикаль 1080x1920, 30 fps, свет от окна спереди или сбоку, петличный микрофон или тихая комната.
-* Монтаж: CapCut, DaVinci Resolve, ffmpeg, встроенный редактор Instagram.
+* General practice: vertical 1080x1920, 30 fps, light from a window in front or to the side, a lavalier mic or a quiet room.
+* Editing: CapCut, DaVinci Resolve, ffmpeg, Instagram's built-in editor.
 
-## 4. Постинг и аналитика
+## 4. Posting and analytics
 
-* Описание короткое и по теме ролика. Хэштеги нужны, чтобы обозначить тему. Сколько их ставить, выясняй по своим данным.
-* TikTok учитывает подписи, звуки и хэштеги как информацию о видео.
-* Водяные знаки других платформ держи вне кадра: Instagram пишет, что они снижают охват.
-* Смотри не общее число просмотров, а где люди отваливаются: удержание первых 3 секунд, средняя длительность просмотра, доля досмотров, репосты, сохранения.
-* Веди таблицу: хук, длительность, удержание, досмотр.
+* Keep the caption short and on topic. Hashtags are there to signal the topic. Work out how many to use from your own data.
+* TikTok counts captions, sounds and hashtags as information about the video.
+* Keep other platforms' watermarks out of the frame: Instagram says they reduce reach.
+* Look not at total views but at where people drop off: retention in the first 3 seconds, average watch time, completion rate, shares, saves.
+* Keep a table: hook, length, retention, completion.
 
-## 5. Монетизация
+## 5. Monetization
 
-* Способы: рекламные интеграции, собственные продукты и услуги, платформенные бонусы и подписки (в Instagram у Creator-аккаунта).
-* Не продавай рекламу, пока нет стабильных просмотров. Цену ориентируй по ставкам похожих авторов и по ожидаемым просмотрам последних 10 роликов.
-* Налоги зависят от страны и формы деятельности. Для Польши есть разборы: [Solidna Księgowa](https://solidnaksiegowa.com/ryczalt-dla-tworcy-internetowego/) и [iFirma](https://www.ifirma.pl/blog/rozliczenie-podatkowe-influencera/). По ним бартер (товар или услуга вместо денег) считается доходом, а ставка ryczałt для рекламных услуг может отличаться от ставки для остальных услуг. Это обзор статей, не налоговая консультация: для своего случая уточни у бухгалтера.
+* Ways to earn: sponsored integrations, your own products and services, platform bonuses and subscriptions (on Instagram for Creator accounts).
+* Do not sell ads until views are stable. Price by the rates of comparable creators and by the expected views of your last 10 videos.
+* Taxes depend on the country and the form of business. For Poland there are overviews: [Solidna Księgowa](https://solidnaksiegowa.com/ryczalt-dla-tworcy-internetowego/) and [iFirma](https://www.ifirma.pl/blog/rozliczenie-podatkowe-influencera/). According to them, barter (goods or services instead of money) counts as income, and the ryczałt rate for advertising services can differ from the rate for other services. This is a summary of articles, not tax advice: check your own case with an accountant.
 
-## 6. Уверенность на камере
+## 6. Being on camera
 
-Речь на камеру тренируется количеством дублей.
+Speaking on camera is trained by the number of takes.
 
-1. Снимай по 3-5 дублей каждой фразы и бери последний: первые дубли почти всегда скованные.
-2. Пиши тезисы (3-4 пункта), а не скрипт. Заученный текст звучит неестественно.
-3. Говори одному человеку: представь знакомого, которому это нужно.
-4. Один дубль решает одну задачу. Не думай одновременно о свете, речи и ракурсе.
+1. Do 3-5 takes of each line and use the last one: the first takes are almost always stiff.
+2. Write talking points (3-4 items), not a script. Memorized text sounds unnatural.
+3. Talk to one person: picture an acquaintance who needs this.
+4. One take solves one problem. Do not think about light, speech and angle all at once.
 
-Эти приёмы общие, не из конкретной методики.
+These are general techniques, not from a specific method.
