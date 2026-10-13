@@ -74,6 +74,10 @@ Open your own feed (Reels or For You) and watch 15 videos. For each, write one l
 * Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
 * Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
 
+## Reading (optional)
+
+This week's book, about 15-20 minutes: Austin Kleon, *Steal Like an Artist*. A loose suggestion; it does not have to match the lesson. More in [resources](../../resources.md) and the [schedule](../schedule.md).
+
 ## Checklist
 
 * [ ] I can name the three behaviors platforms reward: stay, finish, react.

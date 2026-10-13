@@ -91,6 +91,10 @@ Write a one-page policy, for example:
 * Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
 * Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
 
+## Reading (optional)
+
+This week's book, about 15-20 minutes: Chip and Dan Heath, *Made to Stick*. A loose suggestion; it does not have to match the lesson. More in [resources](../../resources.md) and the [schedule](../schedule.md).
+
 ## Checklist
 
 * [ ] My three circles are written.

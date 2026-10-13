@@ -98,6 +98,10 @@ Trust is the asset that makes monetization later possible.
 * Weeks 1-2 everything stays private; from week 3 follow your publishing plan.
 * Don't watch the take right away (lesson 4.1). Tick the day in your tracker.
 
+## Reading (optional)
+
+This week's book, about 15-20 minutes: Jonah Berger, *Contagious*. A loose suggestion; it does not have to match the lesson. More in [resources](../../resources.md) and the [schedule](../schedule.md).
+
 ## Checklist
 
 * [ ] I reply to comments and learn from them.
