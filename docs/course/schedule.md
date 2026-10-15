@@ -35,7 +35,7 @@ One to three hours a day. If you miss a day, do the minimum (a voice note) and c
 | 27 | [9.2 Disclosure: labeling ads and partnerships](09-business/02-disclosure.md) |  |
 | 28 | [9.3 Pricing, agreements and taxes](09-business/03-pricing-and-taxes.md) |  |
 | 29 | [4.4 Drills for natural delivery](04-on-camera/04-drills.md) | Review: compare your day-1 and latest takes. |
-| 30 | [10.1 Final review and the next 90 days](10-capstone/01-final-review.md) |  |
+| 30 | [10.1 Final review and the next 90 days](10-capstone/01-final-review.md) | If you have 30 published reels, run the [30-reel checkpoint](../plan.md#checkpoint-after-30-reels); otherwise schedule it. |
 
 ## Reading alongside (optional, loose)
 
