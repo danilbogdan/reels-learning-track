@@ -67,6 +67,10 @@ After 30 days you have enough information to choose. Pick one:
 
 Write your choice and one sentence explaining it.
 
+### Checkpoint: after 30 published reels
+
+If you have published 30 reels by now, run the [30-reel checkpoint](../../plan.md#checkpoint-after-30-reels) before choosing. If you have fewer, schedule it for the day you publish number 30 and put it in your calendar. The checkpoint decides whether the next step is more of the same, better quality, a partner, or a producer.
+
 ## Part 4: The 90-day plan
 
 Break 90 days into three 30-day blocks, each with a theme.
@@ -123,6 +127,7 @@ You made a habit and a skill. Whether or not your reels went wide, you now know 
 2. Choose continue, adjust, pause or stop.
 3. Write the 90-day plan with the three blocks.
 4. Schedule your next weekly review and put it in your calendar.
+5. Note the date of your 30-reel checkpoint.
 
 ## Daily practice
 
@@ -141,6 +146,7 @@ This week's book, about 15-20 minutes: Jonah Berger, *Contagious*. A loose sugge
 * [ ] I made a decision.
 * [ ] I have a 90-day plan.
 * [ ] I scheduled the first review.
+* [ ] I know when my 30-reel checkpoint is.
 * [ ] I recorded today's voice note and take.
 
 ---

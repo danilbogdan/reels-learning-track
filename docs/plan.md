@@ -41,6 +41,27 @@ Columns: link, first line, first frame, promise to the viewer, the turn, how it 
 
 After each post record: hook, length, retention in the first 3 seconds, average watch time, completion rate, shares, saves. Metric names in each platform's interface may differ.
 
+## Checkpoint after 30 reels
+
+Count published reels, not days. When you have published 30, stop and compare before deciding what to do next. If you post a diary reel every day, this lands around day 30; at the plan's pace (about 8-9 reels in 30 days) it comes in the first block of the 90-day plan.
+
+Put the numbers in one table, one row per reel: hook, length, retention in the first 3 seconds, average watch time, completion rate, views, shares, saves, follows.
+
+Then answer:
+
+* Is there a format or hook type that beats your median clearly and more than once?
+* Is retention improving from the first ten reels to the last ten?
+* Do views turn into follows, or only into reach?
+
+Then pick the next step:
+
+* **Keep going solo.** No clear signal yet. Another 30 reels with one change at a time.
+* **Invest in quality.** One format works but light, sound or editing holds it back: buy or improve one element (see lessons 5.3, 5.4, 6.1).
+* **Add a partner.** The format works but you lack reach or skills: try a collaboration (lesson 8.2).
+* **Consider a producer or studio.** Only with a proven format and something to sell behind the account (lesson 9.1). A studio buys polish and speed; it does not create an audience.
+
+Write the decision and one sentence of reasoning in your tracker.
+
 ## Tooling
 
 [reel-skills](https://github.com/danilbogdan/reel-skills) is the companion toolbox. Its README describes skills for learning from reference videos (video analysis, hook linting), for making the reel (cutting pauses, B-roll indexing, rendering) and for working with notes (a notes digest). Natural fits for this plan:
