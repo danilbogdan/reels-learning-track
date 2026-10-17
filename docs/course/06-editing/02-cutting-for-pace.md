@@ -12,6 +12,12 @@ Learn to tighten a talking video so it feels fast and clear: remove pauses, fix 
 
 When you watch a good short video, you rarely notice cuts. You notice that nothing is wasted. Pace is the number of ideas per second. A talking video filmed in one take usually contains about 20-30 percent slack: pauses, breaths, stumbles, restarts, repetition. Cutting them makes the same content feel energetic without making you talk faster.
 
+## Pace follows the material
+
+Do not chase a cuts-per-minute number. In the reels studied, one account ran from 0 to 44 cuts a minute and another from 8 to 83, with no link between cut rate and performance. A 16-second reel with no cuts and one with 150 cuts a minute both did well. What differed was the material: a single take holds when something happens inside it (a scroll, a performance, a confession), and a montage needs cuts to keep up. In some zero-cut reels the only edit is the caption swap.
+
+So the question is not "how fast should I cut?" but "does something happen in this shot?" If yes, hold it. If not, cut.
+
 ## The cutting passes
 
 ### Pass 1: Choose takes

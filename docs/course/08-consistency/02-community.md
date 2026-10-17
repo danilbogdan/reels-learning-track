@@ -39,6 +39,22 @@ A comment such as "How do you actually start when you don't feel like it?" can b
 * Screenshot and report threats or harassment, and seek help if you feel unsafe.
 * If comments affect your mood, step away from the app for a while. Ask a friend to moderate for you if needed.
 
+### Ask for a comment on purpose
+
+A comment does not come by itself. In the reels studied, comments tracked the ask: videos with an explicit request, or with real emotion, drew many times more than entertaining videos with neither. The working form is a keyword: "comment [word] and I'll send you [resource]". Three habits make it work:
+
+* The word is the last thing you discussed, so it is easy to remember.
+* The ask appears three times: promised in the hook, shown on screen in the last 3-4 seconds, repeated in the caption.
+* You really send something useful: a checklist, a short video, a template. The ask is a promise, so keep it.
+
+A few shapes for the script, adapted from creators who use them:
+
+1. **Symptom, reframe, resource.** "If [familiar symptom], you are not [bad label], you have just been [root cause]. Comment [word] and I will send you [resource]."
+2. **Earned authority.** "I did [thing] for [N days or times]. Here is what nobody says: [unexpected insight]. I put it in [resource]. Comment [word]."
+3. **Dream, reality, roadblock.** "Imagine [specific outcome]. Right now you are at [current state]. The only thing between them is [one roadblock]. [Resource] removes it. Comment [word]."
+
+Do not copy a giveaway: it buys activity, not an audience. Copy the placement and the honesty.
+
 ## DMs and messages
 
 * Keep boundaries. You can ignore or mute messages.

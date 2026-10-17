@@ -32,8 +32,8 @@ Do not only pick people who do exactly what you do. Great ideas travel between f
 
 For each video, fill one row. Use a spreadsheet or table in your notes.
 
-| # | Link | First line (exact) | First frame | Promise | Beats | Turn | Ending | Length | Why I finished |
-|---|---|---|---|---|---|---|---|---|---|
+| # | Link | First line (exact) | First frame | Promise | Beats | Turn | Ending | Ask | Length | Why I finished |
+|---|---|---|---|---|---|---|---|---|---|---|
 
 How to fill each column:
 
@@ -43,6 +43,7 @@ How to fill each column:
 * **Beats:** count the segments and note how long each lasted.
 * **Turn:** was there a twist? Where?
 * **Ending:** how did it end? Did it loop to the start?
+* **Ask:** does the video ask the viewer to do something (comment a word, save, follow)? Where does the ask sit: in the hook, in the last seconds, only in the caption?
 * **Length:** in seconds.
 * **Why I finished:** be honest. Curiosity? Humor? Recognition? A visual?
 
@@ -63,6 +64,23 @@ Write down 3-5 patterns in plain words. Example patterns:
 4. "Ends on the same line it began." (3 of 20)
 
 These patterns are your **toolkit**. They are not property of any one creator; they are common structures.
+
+## Subject sets the ceiling
+
+Studies of single accounts, where the creator stays the same and only the idea changes, keep showing one thing: the gap between a creator's best and median video is huge, and it follows the subject more than the production. The same camera and the same editing can give 20 times the views. Videos built on a personal stake (a move, a job change, a confession) tend to beat neutral explainers, and expertise works better as the credential than as the hook. These are observations from a handful of accounts, not rules, so check them against your own table.
+
+Add one more question to your rows: *what is at stake, for the viewer or for the person on screen?* If a video has a strong structure but nothing at stake, note it and move on.
+
+## Optional: look at the niche, not only at people
+
+If you are unsure whether anyone wants your topic, spend 30 minutes on a quick demand check, mainly for YouTube, where people search:
+
+1. Type your topic into the search box and write down the first three or four suggestions. These are real queries.
+2. Open the top videos for one query. Look at the title, the cover and the channel.
+3. Follow the recommendations from the best one until you find a video that clearly stands out from the rest.
+4. Repeat for the next query, and stop when you understand the niche, not just one competitor.
+
+If people already look for what you make, build around that demand. If not, tie your topic to something they already want: viewers want a result and rarely care about the mechanism until it is connected to the result.
 
 ## Turn patterns into your own ideas
 

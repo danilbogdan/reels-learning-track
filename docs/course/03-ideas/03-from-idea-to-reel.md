@@ -37,6 +37,16 @@ Topic: *Waking up early.*
 
 Generate at least three angles for every idea and choose the one that is (a) true for you, (b) specific, and (c) a bit surprising.
 
+## Make it simple and wide
+
+A narrow topic reaches few people even when it is well made. "How I built a sales department" is for a handful of managers. The same meaning inside a bigger, everyday frame reaches many more. If you cannot widen the topic, attach it to something broad that people already live with. Three ways in:
+
+* **A metaphor.** Explain a funnel through a street seller of cotton candy. If a five-year-old would get the picture, you are close.
+* **Show, don't tell.** Run the screen recording, play the track you describe, show the payment screenshot. A claim you can see needs no persuading.
+* **Enter through a person.** Not "an iPhone review" but "I worked 200 hours to buy my girlfriend the iPhone she wanted."
+
+Then check the result against the mechanism. Viewers want an outcome and rarely understand how it comes about. A concept gets stronger when it connects the two, as in "If you don't understand X, you don't get Y." Rewrite one of your ideas in this form and see if it gets sharper or just louder.
+
 ## Choose a shape
 
 Use one of the shapes from lesson 1.2: story, opinion, how-to, behind the scenes. Then write the five parts in short lines:

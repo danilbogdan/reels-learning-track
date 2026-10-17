@@ -69,7 +69,7 @@ Write your choice and one sentence explaining it.
 
 ### Checkpoint: after 30 published reels
 
-If you have published 30 reels by now, run the [30-reel checkpoint](../../plan.md#checkpoint-after-30-reels) before choosing. If you have fewer, schedule it for the day you publish number 30 and put it in your calendar. The checkpoint decides whether the next step is more of the same, better quality, a partner, or a producer.
+If you have published 30 reels by now, run the [30-reel checkpoint](../../plan.md#checkpoint-after-30-reels) before choosing. If you have fewer, schedule it for the day you publish number 30 and put it in your calendar. The checkpoint decides whether the next step is more of the same, better quality, a partner, or a producer. Add the content type (expert, personal, reach, selling; lesson 2.2) and the format to each row, so you can see whether one type beats the rest.
 
 ## Part 4: The 90-day plan
 
