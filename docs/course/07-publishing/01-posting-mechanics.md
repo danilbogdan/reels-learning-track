@@ -48,6 +48,14 @@ There is no verified magic number. The role of hashtags is to indicate the topic
 * If the platform lets you add cover text, keep it short and readable.
 * A consistent look across covers helps profile coherence.
 
+On YouTube and Shorts the cover and the title are not decoration, they are the whole reason to click. Together they give one promise:
+
+* The cover makes the change visible (for example, "before" and "after" side by side) and the title names the exact problem and result. A cover that looks good but gives no reason to click fails.
+* One sentence is enough: pain, then result. "Why it is so hard to learn a new profession, and what AI does about it" says more than a list of topics.
+* A reusable shape is "If you don't do X, you don't get Y." It works on YouTube and on Instagram.
+* Put your cover and title next to the videos you will really compete with, or show them to a friend, and ask which one they would open.
+* Study why a title works and do not copy its words. A title that sounds good but has no demand or problem behind it earns no clicks.
+
 ## Audio selection
 
 If you add sound inside the app, follow your account's licensing rules (lesson 6.3). Use original audio when you have spoken content; it is yours.

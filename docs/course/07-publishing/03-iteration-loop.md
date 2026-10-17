@@ -60,6 +60,8 @@ A **decision** column forces you to act: keep, drop or retest.
 * **Format:** story vs list.
 * **Cover:** face vs text.
 * **CTA:** a question vs none.
+* **Comment keyword:** "comment [word] and I'll send you [resource]" vs no ask. Test where it sits too: in the hook, in the last 3-4 seconds on screen, or only in the caption.
+* **Content type:** an expert reel vs a personal one on the same topic (lesson 2.2).
 * **Posting time:** morning vs evening.
 * **Angle:** eye-level vs low.
 

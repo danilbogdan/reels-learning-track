@@ -44,6 +44,30 @@ Ten formats to start from:
 
 You do not need all ten. Choose three that fit your personality and setup. If you hate being on screen all the time, lean on formats 5, 7 and 9. If you love talking, lean on 1, 3 and 6.
 
+## Four types of content
+
+Pillars say what you talk about. A second cut says what a video is *for*. A producer of subscriber-growth reels describes four types:
+
+| Type | Job | Reported view-to-subscriber rate |
+|---|---|---|
+| Expert | useful answers, how-tos, breakdowns | around 0.3-1.5% |
+| Personal | loyalty, a reason to follow *you* | lower, but it keeps people |
+| Reach | attention, humor, trends | around 0.1% |
+| Selling | leads and sales | few views on its own |
+
+For a small personal account the same source suggests roughly **60-70% expert, 20-30% personal, 10% selling, almost no pure reach**. The strongest single shape is the hybrid: a personal hook first, an expert payoff second. Put the selling part at the end of an expert or personal reel instead of making a separate sales video.
+
+These numbers come from one team's reported case, not from our own testing. Use the mix as a starting hypothesis and compare it with your own reels at the 30-reel checkpoint ([plan](../../plan.md#checkpoint-after-30-reels)).
+
+## Cheap devices worth stealing
+
+Four low-cost ideas that recur in the reels studied:
+
+* **A persistent counter** ("DAY 3") on every frame. It turns a chore into an episode and saves you writing connective text.
+* **Before and after** from the same locked-off frame. It is a self-contained payoff you can drop into any video.
+* **A screen recording in one take**, with the promise typed on screen from the first frame. You can film it when tired.
+* **A caption per beat**, sometimes with a clock ("7:40 getting ready, 7:50 leaving for the office"). It gives a longer reel a clear structure without a voice-over.
+
 ## Building your menu
 
 Make a table with pillars as columns and your chosen formats as rows. In each cell, write one idea. With 4 pillars and 3 formats, you have 12 ideas on one page. That is almost two weeks of content.

@@ -29,7 +29,7 @@ One per day:
 
 ## Table for analyzing other people's videos
 
-Columns: link, first line, first frame, promise to the viewer, the turn, how it ended, why it works. From the table pick 3-5 recurring patterns and rework them with your own story.
+Columns: link, first line, first frame, promise to the viewer, the turn, how it ended, the ask (where it sits), why it works. From the table pick 3-5 recurring patterns and rework them with your own story.
 
 ## Equipment and setup before week 3
 
@@ -45,11 +45,11 @@ After each post record: hook, length, retention in the first 3 seconds, average 
 
 Count published reels, not days. When you have published 30, stop and compare before deciding what to do next. If you post a diary reel every day, this lands around day 30; at the plan's pace (about 8-9 reels in 30 days) it comes in the first block of the 90-day plan.
 
-Put the numbers in one table, one row per reel: hook, length, retention in the first 3 seconds, average watch time, completion rate, views, shares, saves, follows.
+Put the numbers in one table, one row per reel: content type (expert / personal / reach / selling), format, hook, where the ask sits, length, retention in the first 3 seconds, average watch time, completion rate, views, shares, saves, follows.
 
 Then answer:
 
-* Is there a format or hook type that beats your median clearly and more than once?
+* Is there a format, content type or hook type that beats your median clearly and more than once?
 * Is retention improving from the first ten reels to the last ten?
 * Do views turn into follows, or only into reach?
 

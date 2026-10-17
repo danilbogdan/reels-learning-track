@@ -49,6 +49,17 @@ After you draft a hook, apply the pass:
 Weak: "Today I want to talk about how I manage my time at work."
 Better: "I stopped managing my time and my week got better."
 
+## What repeats across creators
+
+Analyses of reels from several unrelated creators and niches turned up the same few habits. Treat them as observations from small samples, and test them on your own reels.
+
+* **The promise sits in text or speech, never in the picture alone.** A music-only reel has no audio hook, so a caption with the promise should be on screen within the first second.
+* **No greeting.** The openings that held were a reversal, a verdict, a number or a negative command ("Don't film videos like this").
+* **A promise with a built-in contract:** a time-boxed promise ("If you had one day to learn Git"), a universal question, a personal stake. The viewer knows exactly what they are owed.
+* **One line, new slot.** Some creators open several videos with the same sentence and swap only the variable. A template you reuse is cheaper than a hook you invent every time.
+
+For longer videos, especially on YouTube, the first seconds carry three jobs, in this order: **promise** (confirm exactly what the viewer clicked for), **proof** (a reason to trust you on this topic) and **plan** (where the video goes). In a 30-second reel each of the three is one short line at most.
+
 ## The visual hook
 
 The first frame is part of the hook. It should add information or interest, not just show you.
