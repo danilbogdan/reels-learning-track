@@ -30,22 +30,29 @@ Do not only pick people who do exactly what you do. Great ideas travel between f
 
 ## The breakdown table
 
-For each video, fill one row. Use a spreadsheet or table in your notes.
+For each video, fill one row. A spreadsheet works best: there are many columns, and you can freeze the first ones so they stay in view.
 
-| # | Link | First line (exact) | First frame | Promise | Beats | Turn | Ending | Ask | Length | Why I finished |
-|---|---|---|---|---|---|---|---|---|---|---|
+| # | Link | Topic angle | Finished | Why I finished | First line (exact) | Hook type | First frame | Promise | Beats | Body | Turn | Ending | Ask | Length, s | Stakes | What I'll use | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 How to fill each column:
 
-* **First line:** write it word for word. This is where you learn hooks.
+* **Link, Topic angle:** where the video is, and the one idea it is about.
+* **Finished:** yes or no. Videos you did not finish are data too.
+* **Why I finished:** name the reason plainly. Curiosity? Humor? Recognition? A visual?
+* **First line (exact):** write it word for word. This is where you learn hooks.
+* **Hook type:** question to the viewer, challenge, voiceover, a specific person, a number or result, provocation, story, other. Pick the closest one.
 * **First frame:** what is on screen at 0:00? A face, a text, an object, motion?
 * **Promise:** what did the video imply I would get?
 * **Beats:** count the segments and note how long each lasted.
+* **Body:** what is shown between the hook and the ending.
 * **Turn:** was there a twist? Where?
 * **Ending:** how did it end? Did it loop to the start?
 * **Ask:** does the video ask the viewer to do something (comment a word, save, follow)? Where does the ask sit: in the hook, in the last seconds, only in the caption?
-* **Length:** in seconds.
-* **Why I finished:** be honest. Curiosity? Humor? Recognition? A visual?
+* **Length, s:** in seconds.
+* **Stakes:** what is at stake, for the viewer or for the person on screen? See the next section.
+* **What I'll use:** one thing you can take into your own video.
+* **Notes:** anything else.
 
 ## Find the patterns
 
@@ -69,7 +76,7 @@ These patterns are your **toolkit**. They are not property of any one creator; t
 
 Studies of single accounts, where the creator stays the same and only the idea changes, keep showing one thing: the gap between a creator's best and median video is huge, and it follows the subject more than the production. The same camera and the same editing can give 20 times the views. Videos built on a personal stake (a move, a job change, a confession) tend to beat neutral explainers, and expertise works better as the credential than as the hook. These are observations from a handful of accounts, not rules, so check them against your own table.
 
-Add one more question to your rows: *what is at stake, for the viewer or for the person on screen?* If a video has a strong structure but nothing at stake, note it and move on.
+That is why the table has a *Stakes* column: *what is at stake, for the viewer or for the person on screen?* If a video has a strong structure but nothing at stake, note it and move on.
 
 ## Optional: look at the niche, not only at people
 
